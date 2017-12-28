@@ -7,6 +7,20 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.16.1, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mail (v2.7.0, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v3.1, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types-data (v3.2016.0521, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_mime (v1.0.0, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mustermann (v1.0.1, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mysql2 (v0.4.10, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pony (v1.12, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v2.0.3, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-protection (v2.0.0, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sequel (v5.3.0, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sinatra (v2.0.0, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sinatra-sequel (v0.9.0, ruby-2.3.3-p222) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.13, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v2.0.8, ruby-2.3.3-p222) [gem]" level="application" />
   </component>
 </module>

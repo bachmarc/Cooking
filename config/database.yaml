@@ -1,15 +1,15 @@
-adapter: sqlite3
+adapter: mysql
 
 development:
-  host: 127.0.0.1
-  port: 3306
-  username: root
-  password: 
-  database: 
+   host: dewdfglp01669
+   port: 3306
+   username: franky
+   password: NewYorkNewYork
+   database: s3lcontrol
 
 production:
-  host: 127.0.0.1
+  host: dewdfglp01669
   port: 3306
-  username: root
-  password: 
-  database: 
+  username: franky
+  password: NewYorkNewYork
+  database: s3lcontrol
