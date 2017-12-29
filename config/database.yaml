@@ -5,7 +5,7 @@ development:
    port: 3306
    username: franky
    password: NewYorkNewYork
-   database: s3lcontrol
+   database: s3ltest
 
 production:
   host: dewdfglp01669

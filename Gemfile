@@ -9,6 +9,7 @@ gem "mysql2"
 gem "yaml"
 gem "pony"
 gem "mime-types"
+gem "thin"
 
 group :development do
 gem "sqlite3"
