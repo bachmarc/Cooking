@@ -3,4 +3,5 @@ class App < Sinatra::Base
 	get '/' do
 		erb :event_registration
   end
+
 end
